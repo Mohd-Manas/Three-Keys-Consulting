@@ -5,10 +5,11 @@ import Card from '../../components/UI/Card';
 import Button from '../../components/UI/Button';
 
 const servicesIncluded = [
-  'Drafting and legal review',
   'One-on-one consultation',
-  'ADJD court fees and registration',
+  'Drafting and legal review',
+  'Legal Review',
   'Certified legal translation',
+  'ADJD court fees and registration',
 ];
 
 const Costs = () => {
